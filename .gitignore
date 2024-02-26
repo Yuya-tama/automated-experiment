@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+
+0804/server/html/app.js
+0804/client/node/script/*
+!/0804/client/node/script/test.py

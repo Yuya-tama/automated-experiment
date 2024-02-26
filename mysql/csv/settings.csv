@@ -1,0 +1,13 @@
+"argument","explanation","id","updated_at","value"
+"1","tempError","How much margin of error is acceptable? [℃]","0.45","2023-02-14 16:14:13"
+"2","samplingNumber","How many times is the data acquired considered steady-state? [-]","100","2023-02-14 16:14:13"
+"3","interval","Interval of temperature acquisition for steady-state [s]","3","2023-02-14 16:14:13"
+"4","maxTime","How much is maximum steady-state waiting time? [s]","2400","2023-02-14 16:14:13"
+"5","tempStep","Difference between the value used as a step and the desired set value for the temperature control. [℃]","0.6","2023-02-14 16:14:13"
+"6","monitorInterval","Interval for status monitoring [s]","3","2023-02-14 16:14:13"
+"7","dtempError","default","0.45",\N
+"8","dsamplingNumber","default","100",\N
+"9","dinterval","default","3",\N
+"10","dmaxTime","default","2400",\N
+"11","dtempStep","default","0.7",\N
+"12","dmonitorInterval","default","5",\N

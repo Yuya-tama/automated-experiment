@@ -1,0 +1,1 @@
+ALTER TABLE experiment_conditions ADD (created_at datetime DEFAULT NULL, updated_at datetime DEFAULT NULL);

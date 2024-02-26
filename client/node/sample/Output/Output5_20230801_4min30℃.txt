@@ -1,0 +1,29 @@
+[Header]
+Application Name	LabSolutions
+Version	5.110
+Data File Name	C:\Users\admin\Desktop\PAT用ファイル\前処理ファイル[環境設定前]\TEMPO酸化\R101-14\Sample20230726PAT(分析のみ)_202308011534_0-16_20230801_002.lcd
+Output Date	2023/11/10
+Output Time	11:17:47
+
+[Configuration]
+Instrument Name	HPLC
+Instrument #	1
+Line #	1
+# of Detectors	1
+Detector ID	Detector A
+Detector Name	検出器A
+# of Channels	1
+
+[Peak Table(Detector A)]
+# of Peaks	9
+Peak#	R.Time	I.Time	F.Time	Area	Height	A/H	Conc.	Mark	ID#	Name	k'	Plate #	Plate Ht.	Tailing	Resolution	Sep.Factor	Area Ratio	Height Ratio	Conc. %	Norm Conc.
+1	0.258	0.208	0.300	1521	455	3.343	0.000	   			0.000	101	1485.898	0.000	0.000	0.000	0	0	0.000	0.000
+2	0.325	0.300	0.408	1914	701	2.729	0.000	 V 			0.259	491	305.799	0.000	0.827	0.000	0	0	0.000	0.000
+3	0.501	0.475	0.608	20101	11855	1.696	0.000	 V 	1	アセトフェノン	0.940	2448	61.280	1.551	3.547	3.633	0	0	0.000	0.000
+4	0.789	0.608	0.858	7857	3622	2.170	0.000	 V 			2.057	4039	37.136	0.991	6.397	2.188	0	0	0.000	0.000
+5	0.882	0.858	0.975	2160	1145	1.887	0.000	 V 	2	benzylalcohol	2.416	5402	27.767	0.000	1.896	1.174	0	0	0.000	0.000
+6	1.017	0.975	1.158	5919	2912	2.033	0.000	 V 		benzoicacid	2.939	6552	22.892	1.399	2.753	1.217	0	0	0.000	0.000
+7	1.660	1.558	1.800	1247765	491513	2.539	0.000	   		benzaldehyde	5.430	10286	14.583	1.267	11.111	1.847	0	0	0.000	0.000
+8	1.846	1.800	2.250	75689	26964	2.807	0.000	 V 			6.149	10635	14.104	1.302	2.709	1.132	0	0	0.000	0.000
+9	2.751	2.658	2.967	19143	5132	3.730	0.000	   		nitrobenzene	9.656	13016	11.524	1.201	10.775	1.570	0	0	0.000	0.000
+
